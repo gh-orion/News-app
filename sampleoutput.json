@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "The Champions League team from a disputed 'smugglers' haven'",
+            "description": "Sheriff Tiraspol are the 'kings' of Moldovan football, but their power and backing comes from a disputed territory on the Ukraine border.",
+            "url": "http://www.bbc.co.uk/sport/football/58546814",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/45D9/production/_107018871_trans_index_getty.png",
+            "publishedAt": "2021-09-15T05:37:26.8808515Z",
+            "content": "This is an updated version of an article originally published in May 2019.\r\n\"Ask not what Trans-Dniester can do for you - ask what you can do for Trans-Dniester.\"\r\nWe're driving down Andriy Smolensky… [+11625 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "College Football\n     \n        Charlotte Solves A Mystery\n       \n        Charlotte Solves A Mystery\n       \n        Who placed the rubber duck on Ohio State's field after the Buckeyes' loss to Oregon on Saturday? Charlotte Wilder found out.\n       \n      6 mins ago",
+            "description": "Who placed the rubber duck on Ohio State's field after the Buckeyes' loss to Oregon on Saturday? Charlotte Wilder found out.",
+            "url": "http://www.foxsports.com/stories/college-football/college-football-duck-troll-oregon-ducks-ohio-state-buckeyes-charlotte-wilder-dos-equis",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/1408/814/552_Editorial_1920x1080_StoryCard_CFB_CharlottesDuck.jpg?ve=1&tl=1",
+            "publishedAt": "2021-09-14T23:07:44.773501Z",
+            "content": "The biggest win of the college football season thus far might very well be Oregon's 35-28 triumph over Ohio State on Saturday in Columbus.\r\nIt marked a statement win for the Pac-12 conference while a… [+1887 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "Week 1 Fantasy Punishment ",
+            "description": "Amanda had to eat an entire meal with footballs taped to her hands after taking an L. Watch 'Punishment League' ",
+            "url": "http://bleacherreport.com/post/hero-2/a2f266bf-4731-43fd-85dd-069ba4eee85a",
+            "urlToImage": "https://img.bleacherreport.net/cms/media/image/e8/c4/f1/a2/6da4/443a/a165/cb8d1b0b68b0/crop_exact_Week1_Punishment_Thumbnail.jpg?h=620&q=90&w=1103",
+            "publishedAt": "2021-09-14T21:37:24.6208361Z",
+            "content": "Amanda had to eat an entire meal with footballs taped to her hands after taking an L. Watch 'Punishment League'"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Next Woman Up: Amina Edwards, chief of staff of the Washington Football Team",
+            "description": "In this installment of the Next Woman Up series, Amina Edwards discusses how she has helped change and build the culture in Washington during her first year in the front office.",
+            "url": "https://www.nfl.com/news/next-woman-up-amina-edwards-chief-of-staff-of-the-washington-football-team",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/twed9zlwt7xsq2ffp4br",
+            "publishedAt": "2021-09-14T18:22:28.8378524Z",
+            "content": "I know you're relatively new to the NFL, so how did you get your start in a career in football?\r\nI took a circuitous route to the NFL. I never worked for a team before, but sports have always been a … [+3704 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Alex Kay",
+            "title": "Will Reuniting College Football Stars Be the Next Big NFL Trend?",
+            "description": "The  NFL  has long been known as a copycat league. Whenever a team finds success, rival coaches and general managers have little shame taking the strategy and employing it for themselves...",
+            "url": "https://bleacherreport.com/articles/2948399-will-reuniting-college-football-stars-be-the-next-big-nfl-trend",
+            "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/917/465/hi-res-c1c88cbe5d27c7c1ebb37652a0a872a8_crop_exact.jpg?w=1200&h=1200&q=75",
+            "publishedAt": "2021-09-14T12:59:25Z",
+            "content": "Dylan Buell/Getty Images\r\nThe NFL has long been known as a copycat league. Whenever a team finds success, rival coaches and general managers have little shame taking the strategy and employing it for… [+7017 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
